@@ -1,0 +1,7 @@
+functions-framework==3.*
+google-cloud-functions==1.*
+black==24.*
+ruff==0.4.*
+pytest==8.*
+yt-dlp==2025.*
+ffmpeg-python==0.2.*
