@@ -4,3 +4,5 @@ hacks.txt
 __pycache__/
 *.local
 EOF
+.firebase/
+firebase-debug.log
