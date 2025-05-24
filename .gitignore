@@ -1,3 +1,6 @@
 .python-version
 hacks.txt
 .venv/
+__pycache__/
+*.local
+EOF
